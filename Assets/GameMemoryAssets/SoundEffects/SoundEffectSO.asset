@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb6f2704f23b71547a175e6db7a3fc7e, type: 3}
+  m_Name: SoundEffectSO
+  m_EditorClassIdentifier: 
+  loseSound: {fileID: 8300000, guid: 26323f7c241261247a636905807c0f57, type: 3}
+  matchSound: {fileID: 8300000, guid: 96383ae7b7bec3343bab0647491aa79a, type: 3}
+  notMatchSound: {fileID: 8300000, guid: 68dafb90db6af1646b67a3c262f9352e, type: 3}
+  winGameSound: {fileID: 8300000, guid: 4c8184eb33c20564bb5fe82b55406457, type: 3}
